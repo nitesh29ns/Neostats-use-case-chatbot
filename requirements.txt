@@ -1,6 +1,17 @@
 streamlit 
+langchain
 langchain-openai 
 langchain-groq 
 langchain-google-genai 
 langchain-core
 python-dotenv
+python-docx
+langchain-community 
+streamlit-pdf-reader
+pypdf
+langchain-nomic
+langchain-chroma
+docx2txt
+nltk
+firecrawl-py
+arxiv
