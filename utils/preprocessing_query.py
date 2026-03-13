@@ -4,6 +4,7 @@ from nltk.tokenize import word_tokenize
 from utils.logger import lg
 
 nltk.download('stopwords')
+nltk.download("punkt_tab") 
 
 lg.info("=============================================================== PREPROCESSING ===============================================================")
 
